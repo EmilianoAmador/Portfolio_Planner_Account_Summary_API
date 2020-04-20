@@ -22,6 +22,7 @@ In this analysis, we used Plaid to retrieve the customer's last 90 days of trans
 ![Pie Chart](Unit_5_API_Account_Summary_Portfolio_Planner/Images/pie_chart_spending_per_category.png)
 
 |**Date**|**Amount**|
+|--------|---------|
 |January|$4,084.83|
 |February|$10,145.24|
 |March|$11,145.24|
