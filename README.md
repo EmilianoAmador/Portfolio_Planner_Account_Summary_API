@@ -4,14 +4,13 @@ In this report, we used Plaid API to retrieve the information necessary to creat
 ## Budget Analysis
 In this analysis, we used Plaid to retrieve the customer's last 90 days of transactions as well as his yearly income. We sorted the transactions by categories and then organized them into a pie chart. Lastly, we illustrated the customer's monthly spending by creating a bar graph.
 
-|                           ####  Income Data                                         |
-|-------------------------------------------------------------------------------------|
+|                            Income Data                                         |
 | **Previous Year Income** | **Current Monthly Income** | **Projected Yearly Income** |
 |--------------------------|----------------------------|-----------------------------|
 | $7,893.00                |    $500.00                 |      $6,085.00              |
 
 
-| #### Spending Per Category In The Last 90 Days|
+| **Spending Per Category In The Last 90 Days**|
 | **Category**|**Amount**|
 |------|-------|
 |Food and Drink| $3,317.19|
