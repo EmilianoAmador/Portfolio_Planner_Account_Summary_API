@@ -19,7 +19,7 @@ In this analysis, we used Plaid to retrieve the customer's last 90 days of trans
 |Transfer| $20,537.34|
 |Travel|35.19|
 
-![Pie Chart](Unit_5_API_Account_Summary_Portfolio_Planner/Images/pie_chart_spending_per_category.png)
+![Pie Chart](Images/pie_chart_spending_per_category.png)
 
 |**Date**|**Amount**|
 |--------|---------|
