@@ -1,8 +1,8 @@
 # Financial Report
-In this report, we used Plaid API to retrieve the information necessary to create a budget analysis. We then used IEX Financial to retrieve stock's historical data and perform Monte Carlo simulations. With the information acquired, we were able to link the customer's banking accounts with their investment accounts and determine whether the portfolio met the necessary requirements. 
+In this report, we used Plaid API to retrieve the information necessary to create a budget analysis. We then used IEX Financial to retrieve stock's historical data and perform Monte Carlo simulations. With the information acquired, we were able to link the customer's banking accounts to their investment accounts and determine whether the portfolio met the necessary requirements. 
 
 ## Budget Analysis
-In this analysis, we used Plaid to retrieve the customer's last 90 days of transactions as well as his yearly income. We sorted the transactions by categories and then organized them into a pie chart. Lastly, we illustrated the customer's monthly spending by creating a bar graph.
+The Plaid API allowed us to have acces to the customer's last 90 days of transactions as well as his yearly income. We sorted the transactions by categories and then organized them into a pie chart. Lastly, we illustrated the customer's monthly spending by creating a bar graph.
                                                                 
 | **Previous Year Income** | **Current Monthly Income** | **Projected Yearly Income** |
 |--------------------------|----------------------------|-----------------------------|
